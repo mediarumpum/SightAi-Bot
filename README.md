@@ -20,7 +20,7 @@
 ### Linux
 1. clone project repo
    ```
-   git clone https://github.com/vinskasenda/SightAi-Bot.git
+   git clone https://github.com/mediarumpum/SightAi-Bot.git
    ```
 2. Choose Folder
    ```
